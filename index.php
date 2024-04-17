@@ -19,6 +19,7 @@
     <h4>Danske Wiki Værktøjer</h4>
     Velkommen til danske Wikipedia værktøjer.<br>
     <i>der er desværre ikke nogle værktøjer lige pt.</i>
+	<i>2024-?</i>
 </div>
 </body>
 </html>
